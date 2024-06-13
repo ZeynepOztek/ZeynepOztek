@@ -9,7 +9,7 @@ Skills: Python / C++ / C#
 - 🔭 I’m currently working on Teknofest 2024 Acık Hackaton
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ZeynepOztek) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/kodluvizyon?igsh=MTJiOTlpN2ZscWJhag==/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/23434854/zeynep-%c3%96ztek)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ZeynepOztek) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/23434854/zeynep-%c3%96ztek)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ZeynepOztek)](https://github.com/ryo-ma/github-profile-trophy)
 
