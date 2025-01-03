@@ -2,7 +2,7 @@
 #### Ben bir öğrenciyim ve en büyük hayalim Yapay Zeka mühendisi olmak.
 ![ZEYNEPÖZTEK](https://github.com/ZeynepOztek/ZeynepOztek/assets/160145351/d4d15514-df7e-45b7-8167-6aa5dd56ba52)
 
-Ben iki sene sonra liseden mezun olacağım. Ve burada yayınladığım projeler ile kendime değer ve bilgi katmak istiyorum.
+Ben altı ay sonra liseden mezun olacağım. Ve burada yayınladığım projeler ile kendime değer ve bilgi katmak istiyorum.
 
 Skills: Python / C++ / C# 
 
